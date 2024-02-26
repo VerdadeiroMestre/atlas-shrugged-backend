@@ -1,0 +1,55 @@
+{
+    "characters": [
+      {
+        "full_name": "Dagny Taggart",
+        "email": "dagny.taggart@taggarttranscontinental.com",
+        "password": "123456"
+      },
+      {
+        "full_name": "John Galt",
+        "email": "john.galt@valley.com",
+        "password": "123456"
+      },
+      {
+        "full_name": "Hank Rearden",
+        "email": "hank.rearden@reardensteel.com",
+        "password": "123456"
+      },
+      {
+        "full_name": "Francisco d'Anconia",
+        "email": "francisco.danconia@valley.com",
+        "password": "123456"
+      },
+      {
+        "full_name": "James Taggart",
+        "email": "james.taggart@taggarttranscontinental.com",
+        "password": "123456"
+      },
+      {
+        "full_name": "Wesley Mouch",
+        "email": "wesley.mouch@government.com",
+        "password": "123456"
+      },
+      {
+        "full_name": "Ellis Wyatt",
+        "email": "ellis.wyatt@wyattoil.com",
+        "password": "123456"
+      },
+      {
+        "full_name": "Ragnar Danneskjöld",
+        "email": "ragnar.danneskjold@valley.com",
+        "password": "123456"
+      },
+      {
+        "full_name": "Eddie Willers",
+        "email": "eddie.willers@taggarttranscontinental.com",
+        "password": "123456"
+      },
+      {
+        "full_name": "Hugh Akston",
+        "email": "hugh.akston@valley.com",
+        "password": "123456"
+      }
+    ]
+  }
+  
